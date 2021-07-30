@@ -1,0 +1,88 @@
+body{
+    font-family: "Brush Script MT" , cursive;
+    font-weight: bold;
+    box-sizing: border-box;
+    margin:0px;
+    padding:0px;
+}
+
+h1{
+    font-size: 175%;
+    text-align: center;
+    font-family: "Brush Script MT" , cursive;
+    font-weight: bold;
+    margin-top:10%;
+    margin-bottom: 25px;
+}
+
+.row {
+    margin: auto;
+    width: 100%;
+  }
+  
+  
+ 
+.content-box{
+    position:relative;
+    background-color:gray;
+    margin:10px;
+    padding:10px;
+    border : 1px solid black;
+}
+
+#header-nav
+{
+  background-color:aqua;
+  margin:0px;
+  padding:0px;
+  
+}
+
+#food
+{
+  margin-left:8px;
+  color:#ff0000;
+}
+.navbar-nav a
+{
+  padding:10px;
+  margin:0px;
+  text-align:center;
+}
+
+#sushi,#chicken,#beef
+{
+  color:#ff0000;
+  
+}
+
+#toggle
+{
+  border:none;
+
+}
+.btn:active .btn:focus .btn:visited
+{
+  border:none;
+}
+
+
+ 
+#collapsibleNavbar
+{
+  background-color: bisque;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+  border-top: 3px solid rgb(0, 0, 0);
+}
+
+ul li {
+  padding: 8px 16px;
+  border-bottom: 3px solid rgb(0, 0, 0);
+}
+#backtotop
+{
+  text-decoration: underline;
+}
